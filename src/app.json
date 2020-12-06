@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/search/main",
+    "pages/detail/main",
+    "pages/list/main",
+    "pages/categoryList/main",
+    "pages/read/main",
+    "pages/shelf/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "小慕读书",
+    "navigationBarTextStyle": "black"
+  },
+  "usingComponents": {
+    "van-button": "vant-weapp/dist/button/index",
+    "van-icon": "vant-weapp/dist/icon/index",
+    "van-dialog": "vant-weapp/dist/dialog/index",
+    "van-rate": "vant-weapp/dist/rate/index"
+  }
+}
